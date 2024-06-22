@@ -4,6 +4,7 @@ gcn_lib/__pycache__
 .venv
 confussion-matrix
 data
-model*
+model_to_deploy
+models
 pretrained
 results
